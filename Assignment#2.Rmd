@@ -14,6 +14,12 @@ Load in packages
 library(tidyverse)
 ```
 
+Make the data frome
+```{r}
+fish_data<- data.frame(
+  species = c("")
+)
+```
 
 
 
